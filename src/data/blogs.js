@@ -2,25 +2,27 @@ import blog1 from  '../img/blogs/blog1.svg';
 import blog3 from  '../img/blogs/blog3.svg';
 import blog2 from  '../img/blogs/blog2.svg';
 import blog4 from  '../img/blogs/blog4.svg';
+import blog5 from  '../img/blogs/blog5.svg';
+
 
 const blogs = [
     {
         id: 1,
-        title: 'How To Work from Home',
+        title: 'Advantages of Digital Marketing',
         date: '01',
         month: 'April',
         image: blog1
     },
     {
         id: 2,
-        title: 'How To Use SEO Efficiently',
+        title: 'How Seo improves search ranking',
         date: '01',
         month: 'April',
         image: blog2
     },
     {
         id: 3,
-        title: 'How to choose a programming Language',
+        title: 'Best language to learn for programming',
         date: '01',
         month: 'April',
         image: blog3,
@@ -28,17 +30,17 @@ const blogs = [
     },
     {
         id: 4,
-        title: 'How To Tse SEO Efficiently',
+        title: 'Benefits of Blockchain',
         date: '01',
         month: 'April',
         image: blog4
     },
     {
         id: 5,
-        title: 'How To Tse SEO Efficiently',
+        title: 'Web app or mobile app?',
         date: '01',
         month: 'April',
-        image: blog4
+        image: blog5
     }
 ]
 

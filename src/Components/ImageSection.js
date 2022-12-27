@@ -14,13 +14,12 @@ function ImageSection() {
             <div className="right-content">
                 <h4>I am <span>Justin John</span></h4>
                 <p className="paragraph">
-                    I am a React developer and Wordpress designer with knowledge in react js,wordpress,node js ,express js, react native and mern who creates respsosive websites, ecommerce sites and web applications.
+                    I am a Web Developer and Digital Marketer with knowledge in Wordpress, Digital Marketing, React and React Native who creates Web apps, Mobile apps and perform Digital Marketing.
                     
                 </p>
                 <div className="about-info">
                     <div className="info-title">
                         <p>Full Name</p>
-                        <p>Date of birth</p>
                         <p>Nationality </p>
                         <p>Languages </p>
                         <p>Location</p>
@@ -28,11 +27,10 @@ function ImageSection() {
                     </div>
                     <div className="info">
                         <p>: Justin John</p>
-                        <p>: 07/04/1988</p>
                         <p>: Indian</p>
                         <p>: English, Malayalam, Hindi,  Tamil </p>
                         <p>: Kerala, India</p>
-                        <p>: Software developer & Data Analyst</p>
+                        <p>: Web Developer & Digital Marketer</p>
                     </div>
                 </div>
                 <PrimaryButton  title={'Download Cv'}  href={pdf} target="_blank"/>

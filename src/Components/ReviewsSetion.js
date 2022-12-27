@@ -11,10 +11,10 @@ function ReviewsSetion() {
             <InnerLayout>
                 <div className="reviews">
                     <ReviewItem 
-                        text={'justin is the best data analyst doctor who identifies the issue of the business. He then suggest the best treatment for the disease!'} 
+                        text={'justin is the tech gem  who identifies the issue of the business. He then suggest the digital solution and treatment for the issue!......joscoholyland'} 
                     />
                     <ReviewItem 
-                        text={'He adopt the right strategy for marketing and develop the best web app for you'} 
+                        text={'He adopt the right strategy for marketing and develop the best web app which raises you business to next level...amberjeweldesigns'} 
                     />
                     
                 </div>

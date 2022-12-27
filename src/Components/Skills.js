@@ -12,19 +12,24 @@ function Skills() {
                 <InnerLayout>
                     <div className="skills">
                         <ProgressBar 
-                            title={'HTML CSS JAVASCRIPT'}
-                            width={'70%'}
-                            text={'70%'}
-                        />
-                        <ProgressBar 
-                            title={'REACT'}
+                            title={'WORDPRESS CMS'}
                             width={'90%'}
                             text={'90%'}
                         />
                         <ProgressBar 
-                            title={'MERN'}
+                            title={'SEO'}
+                            width={'80%'}
+                            text={'80%'}
+                        />
+                        <ProgressBar 
+                            title={'DIGITAL MARKETING'}
                             width={'85%'}
                             text={'85%'}
+                        />
+                        <ProgressBar 
+                            title={'REACT'}
+                            width={'80%'}
+                            text={'80%'}
                         />
                         <ProgressBar 
                             title={'REACT NATIVE'}
@@ -32,24 +37,19 @@ function Skills() {
                             text={'80%'}
                         />
                         <ProgressBar 
-                            title={'WORDPRESS & DIGITAL MARKETING'}
-                            width={'95%'}
-                            text={'95%'}
+                            title={'HOSTING & SSL'}
+                            width={'85%'}
+                            text={'85%'}
                         />
                         <ProgressBar 
-                            title={'SQL & MONGODB'}
+                            title={'CANVA & EXCEL'}
                             width={'75%'}
                             text={'75%'}
                         />
                         <ProgressBar 
-                            title={'NEXT JS & Gatsby & Typescript'}
-                            width={'75%'}
-                            text={'75%'}
-                        />
-                        <ProgressBar 
-                            title={'EXCEL & TABLEU & BLOCKCHAIN'}
-                            width={'75%'}
-                            text={'75%'}
+                            title={'SQL MONGODB'}
+                            width={'70%'}
+                            text={'70%'}
                         />
                     </div>
                 </InnerLayout>

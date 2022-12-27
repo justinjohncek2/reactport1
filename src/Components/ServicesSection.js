@@ -15,19 +15,26 @@ function ServicesSection() {
                 <div className="services">
                 <ServiceCard 
                         image={gamedev} 
-                        title={'Web Design & Software development'} 
-                        paragraph={'Web & mobile apps according to the reuirements of clients.'}
+                        title={'Information sites & Ecommerce sites'} 
+                        paragraph={'Mobile first websites created using Wordpress CMS.'}
                     />
                     <ServiceCard 
                         image={design} 
-                        title={'Data Analytics'} 
-                        paragraph={'Data Analysis, Data Visualizations & Business solutions.'}
+                        title={'Web apps & Mobile apps'} 
+                        paragraph={'Web apps & Mobile apps using React & React Native'}
                     />
                     <div className="mid-card">
                         <ServiceCard 
                             image={intelligence} 
                             title={'Digital Marketing'} 
-                            paragraph={'SEO, SEM, Social media marketing,Affilate Marketing,email marketing.'}
+                            paragraph={'SEO, SEM, Social media,Affilate,email,Mobile and Content Marketing.'}
+                        />
+                    </div>
+                    <div className="mid-card">
+                        <ServiceCard 
+                            image={intelligence} 
+                            title={'Deployment & SSL'} 
+                            paragraph={'Hostinger,Godaddy,Fireabase,Netlify,Cloudfare'}
                         />
                     </div>
                     

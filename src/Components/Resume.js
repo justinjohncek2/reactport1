@@ -20,9 +20,9 @@ function Resume() {
                 <div className="resume-content">
                     <ResumeItem 
                         year={'2020 - present'} 
-                        title={'Web developer & Data Analyst'}
-                        subTitle={'free lancer'}
-                        text={'I works as a freelancer web developer who offers Information,Ecommerce sites and web applications with the help of web technologies Wordpress, React js, React Native, Mern Stack, Next js & Gatsby. I also identifies the business issues of enterprises & deliver apt business remedies through Data Analysis & Visualization tools.'} 
+                        title={'Web Developer & Digital Marketer'}
+                        subTitle={'Free lancer'}
+                        text={'I works as a freelancer Web Developer & Digital Marketer who makes Information sites, Ecommerce sites, Web apps & Mobile apps. I also identifies the business issues of enterprises & deliver apt business remedies through Dgital Marketing.'} 
                     />
                     <ResumeItem 
                         year={'2019'} 
@@ -33,24 +33,30 @@ function Resume() {
                     <ResumeItem 
                         year={'2017'} 
                         title={'Tech support'}
-                        subTitle={'Federal Bank'}
-                        text={'The nature of the job was to assist the bank staff in the technical works in the bank which includes in handling the software and Hardware jobs in the Bank. It comperises of online data entry, document scanning, ATM card activation and customer interaction for selling the banking products and starting bank accounts , F.D & Insurance products of the Bank. '} 
+                        subTitle={'Deccan Iservices'}
+                        text={'The Job profile was reviewing,analysing & present the customer opinion of products to clients. The Customer data was analysed for the improvement of the product,thereby providing the best customer satisfaction experience thereby helping customer gets the best quality product. This enusured the customer client trust which in result helped improving the business of the customer'} 
                     />
                     <ResumeItem 
                         year={'2016'} 
+                        title={'Tech support'}
+                        subTitle={'Federal bank'}
+                        text={'The nature of the job was to assist the bank staff in the technical works in the bank which includes in handling the software and Hardware jobs in the Bank. It comperises of online data entry, document scanning, ATM card activation and customer interaction for selling the banking products and starting bank accounts , F.D & Insurance products of the Bank. '} 
+                    />
+                    <ResumeItem 
+                        year={'2014-2016'} 
                         title={'Technical support consultant'}
-                        subTitle={'sutherland global services'}
+                        subTitle={'Sutherland global services'}
                         text={'I worked AT & T the biggest telecom company in U.S by taking the remote access of the custoemrs and resolved the pc issues of the system. The service helped the customers in resolving the pc issues like virus attack, Antivirus installation, System formating, Installations of telecom softwares, Cleaning the computer and browser etc.'} 
                     />
                     <ResumeItem 
-                        year={'2015'} 
-                        title={'software developer'}
+                        year={'2013'} 
+                        title={'software developer intern'}
                         subTitle={'Eleoenai technologies'}
                         text={'Worked as developer by helping develop  apps for both desktop and  web for chit companies. The internship includes development of back end app with data base management of relational databases using sql. The applications was meant for helping easty access to chit opeeations by private chit firms'} 
                     />
                     <ResumeItem 
-                        year={'2012-2014'} 
-                        title={'Higher studies and research'}
+                        year={'2012-2013'} 
+                        title={'Advanced Coarsed on I.T'}
                         subTitle={''}
                         text={ 'Worked on studying advanced I.T coarses for improving my technical knowledge in the vast I.T world .I also did my language coarse in the form of IElTs. In addition some aptitude and Reasoning classes for preparing  for the tough entrance exams of companies.'} 
                     />

@@ -17,27 +17,28 @@ function HomePage() {
             <div className="typography">
                 <h1>Hi, I'm <span>Justin John</span></h1>
                 <p>
-                    I am a Full stack javascript developer, Wordpress designer and a Data Analyst who contribute to I. T world by helping people analyse their business needs &  create web applications for growing their personal and business life.
+                    I am a Web Developer and Digital Marketer.
                 </p>
                 <div className="icons">
-                <a href="https://codepen.io/pen/" className="icon i-Instagram">
+                <a href="https://www.instagram.com/justinjohn999/" className="icon i-Instagram">
                         <InstagramIcon />
                     </a>
-                    <a href="https://codepen.io/pen/" className="icon i-Facebook">
+                    <a href="https://www.facebook.com/justin.john.7528/" className="icon i-Facebook">
                         <FacebookIcon />
                     </a>
-                    <a href="https://codepen.io/pen/" className="icon i-Github">
+                    <a href="https://github.com/justinjohncek2" className="icon i-Github">
                         <GithubIcon />
                     </a>
-                    <a href="https://codepen.io/pen/" className="icon i-Youtube">
+                    <a href="https://www.youtube.com/channel/UCPpNC4mYJDUdJANclxf81BQ" className="icon i-Youtube">
                         <YoutubeIcon />
                     </a>
-                    <a href="https://codepen.io/pen/" className="icon i-linkedin">
+                    <a href="https://www.linkedin.com/in/justin-john-407350154/" className="icon i-linkedin">
                         <LinkedInIcon/>
                     </a>
-                    <a href="https://codepen.io/pen/" className="icon i-Twitter">
-                        <TwitterIcon />
+                    <a href="https://twitter.com/JustinJ00834052" className="icon i-linkedin">
+                        <TwitterIcon/>
                     </a>
+                    
                 </div>
             </div>
         </HomePageStyled>

@@ -14,7 +14,7 @@ function ContactPage() {
     const location = <LocationOnIcon />
     return (
         <MainLayout>
-            <Title title={'Contact'} span={'Contact'} />
+            <Title title={'Contact Me'} span={'Contact Me'} />
             <ContactPageStyled >
             <InnerLayout className={'contact-section'}>
                 <div className="left-content">
